@@ -1,0 +1,9 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.container{
+    background-color: rgba(176, 236, 236, 0.541);
+    padding: 2rem;
+}
